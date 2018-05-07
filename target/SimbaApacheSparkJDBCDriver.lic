@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<License xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:simba-com:SimbaLicenseSchema">
+  <Info version="1">
+    <ProductSKU>0100108261</ProductSKU>
+    <Product>Simba Apache Spark JDBC Driver</Product>
+    <Platform>Java</Platform>
+    <ProductVersion>1</ProductVersion>
+    <LicenseType>Evaluation</LicenseType>
+    <LicenseCount>1</LicenseCount>
+    <CustomerID>sgupta209@sapient.com</CustomerID>
+    <Timestamp>2018-05-01T22:27:03.2276383-07:00</Timestamp>
+    <Expiry>2018-05-21</Expiry>
+  </Info>
+  <Key>fOigAFwA5wBVAH4AjgDEAFJgy8x7pwjqklobQYzdAWCPW+BUf/CJ6LH66HzN8snISBZ4W6PFNCPZ9kFJbfe7w5X37Tq+JuvZqJ0d9q0z/Kx/qStLtFvhCK0Bmk53GTPePjL564QrUo2/pNRu0K/Jpb/4PM7bi2V77DaV3NfJygj7Hrz8xWHFk7pEjBosYrn+JPlsINX8tlrJQxBw6ZrUetq6bMH916wmG1N6KAv7gDHCBaevMvHWoapAqBz+NRUc+K3gSP9Nb2bBOJ2d6qqOKQmIqYt2JXIt7pl2m+4DWf4bG2UOKPpM0Y+Q+vnsYsk8COktlC0LYhyw+Bhf1nnmil3oEbBlvacX</Key>
+</License>

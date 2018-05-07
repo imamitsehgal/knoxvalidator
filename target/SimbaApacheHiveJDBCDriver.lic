@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<License xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:simba-com:SimbaLicenseSchema">
+  <Info version="1">
+    <ProductSKU>0100108121</ProductSKU>
+    <Product>Simba Apache Hive JDBC Driver</Product>
+    <Platform>Java</Platform>
+    <ProductVersion>1</ProductVersion>
+    <LicenseType>Evaluation</LicenseType>
+    <LicenseCount>1</LicenseCount>
+    <CustomerID>sgupta209@sapient.com</CustomerID>
+    <Timestamp>2018-05-01T10:15:09.535908-07:00</Timestamp>
+    <Expiry>2018-05-21</Expiry>
+  </Info>
+  <Key>kuhyALYAfAD1AHwAVABNAJrgiZOLPUMFIvPxRT5Igl+atLrTR2EOK0HMyKLyHX4Q7ZrWXKz+EzBRO3CGLog3ui2hSuVv23nSo9L9EIZ8u6Hg5w5+GDiHsAPhzU7SWyyoA37unGfssheORAsorFPrQql2gYc2Jht6p96v0lb5kMUcGa2De9l3yE/7pYx2mse4ZDl2lsUWmowKS7vDmDhnKDnkdsZMe7VhWCV72cOIQhzu80hUMuNgPpbtm3/iIvaA80KEwCGB3I2CHYe+aE/mbVHKMEyj7Ol2C+6p4wEKC/yP2VBRcfj7MbcbYC5+2XgA82t9ZvI+dsAP3XadUJ/5m3zhvSuBpm90</Key>
+</License>
